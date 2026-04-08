@@ -186,10 +186,10 @@ It also improved my understanding of **state management, UI behavior, and clean 
 
 ---
 
-![Screenshot_20260408-232943_PlanYourEvent](https://github.com/user-attachments/assets/9d34f523-772f-41a2-874c-d44b681c8d9e)
-![Screenshot_20260408-232823_PlanYourEvent](https://github.com/user-attachments/assets/3be9b720-5b5b-4682-9d92-2d72ab0ff7e1)
-![Screenshot_20260408-232839_PlanYourEvent](https://github.com/user-attachments/assets/27db7efa-077f-4fe9-a8f7-5923f03e059b)
-![Screenshot_20260408-232814_PlanYourEvent](https://github.com/user-attachments/assets/339eb7f7-bf8a-481c-8b02-979ed5896a69)
 
+<img src="https://github.com/user-attachments/assets/339eb7f7-bf8a-481c-8b02-979ed5896a69" width="300" height="auto">
+<img src="https://github.com/user-attachments/assets/27db7efa-077f-4fe9-a8f7-5923f03e059b" width="300" height="auto">
+<img src="https://github.com/user-attachments/assets/3be9b720-5b5b-4682-9d92-2d72ab0ff7e1" width="300" height="auto">
+<img src="https://github.com/user-attachments/assets/9d34f523-772f-41a2-874c-d44b681c8d9e" width="300" height="auto">
 
 ⭐ Thank you!
